@@ -2,5 +2,5 @@
 
 Simple Python chatbot using if-else and loops.
 ## Project Screenshot
+screenshots/chatbot-demo.png
 
-![Chatbot Demo](screenshots/chatbot-demo.png)
